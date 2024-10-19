@@ -3,7 +3,7 @@
 
 <div align="center">
   
-📁 [기획서 보러가기](https://www.notion.so/learntosurf/COM-US-f5300befd9b14e42ba0e6d86dfae47b9)
+📁 [기획서 보러가기](https://comus.oopy.io/)
 ![KakaoTalk_Photo_2024-08-18-00-00-19](https://github.com/user-attachments/assets/41f165fb-d883-49c2-aea4-1836deb242f8)
 
 </div>
