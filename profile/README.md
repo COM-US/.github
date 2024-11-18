@@ -12,10 +12,10 @@
 <br>
 
 ## ✴️ 팀원
-| [송은나래](https://github.com/eunarae) | [서묘진](https://github.com/nrj022) | [송하연](https://github.com/hysong4u) | [정수미](https://github.com/learntosurf) |
-| :--------: | :--------: | :--------: | :--------: |
-| <img src="https://github.com/eunarae.png" width="200px"/>  | <img src="https://github.com/nrj022.png" width="200px"/> | <img src="https://github.com/hysong4u.png" width="200px"/> | <img src="https://github.com/learntosurf.png" width="200px"/> 
-| PM, Design | Android | Server | AI,ML |
+| [송은나래](https://github.com/eunarae) | [김경민]() | [서묘진](https://github.com/nrj022) |[허성현](https://github.com/hyeonhh)| [송하연](https://github.com/hysong4u) | [정수미](https://github.com/learntosurf) |[홍재령](https://github.com/Jar199)|
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| <img src="https://github.com/eunarae.png" width="200px"/>  | <img src="https://via.placeholder.com/200" width="200px"/> | <img src="https://github.com/nrj022.png" width="200px"/> | <img src="https://github.com/hyeonhh.png" width="200px"/> | <img src="https://github.com/hysong4u.png" width="200px"/> | <img src="https://github.com/learntosurf.png" width="200px"/> | <img src="https://github.com/Jar199.png" width="200px"/> 
+| PM, Design | Marketing | Android | Android | Server | AI,ML | AI,ML |
 <br>
 
 ## ✴️ 이전 프로젝트 ‘COMMA’ 그리고 ‘COM-US’의 방향성
