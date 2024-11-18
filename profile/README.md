@@ -3,7 +3,6 @@
 
 <div align="center">
   
-📁 [기획서 보러가기](https://comus.oopy.io/)
 ![KakaoTalk_Photo_2024-08-18-00-00-19](https://github.com/user-attachments/assets/41f165fb-d883-49c2-aea4-1836deb242f8)
 
 </div>
@@ -18,6 +17,9 @@
 | PM, Design | Marketing | Android | Android | Server | AI,ML | AI,ML |
 <br>
 
+## ✴️ COM-US 기획안
+📁 https://comus.oopy.io/
+
 ## ✴️ 이전 프로젝트 ‘COMMA’ 그리고 ‘COM-US’의 방향성
 1️⃣  https://github.com/COM-MA     
 2️⃣ https://www.phaseon.me/com-ma
@@ -28,7 +30,7 @@
 이에 따라 서비스는 ‘COM-US’로 발전하여, 수화 학습을 넘어서 부모와 자녀 간의 자연스러운 소통을 촉진하고, 가족 간의 유대감을 강화하는 방향으로 재정비되었습니다. <br>
 현재 이 방향으로 스마일게이트의 지원을 받아 서비스를 고도화하고 있으며, 부모와 자녀가 더 깊이 연결될 수 있는 기능들을 추가 개발 중입니다.<br>
 
-## ✴️ ‘COM-US’ 소개 및 핵심 기능
+## ✴️ COM-US 소개 및 핵심 기능
 COM-US는 <b>`농인 부모와 코다(청인 자녀) 간의 소통과 정서적 교감을 지원하는 AI 기반 서비스`</b>입니다.  <br>
 이 서비스는 농인 부모와 자녀가 일상에서 자연스럽게 소통하고 정서적으로 연결될 수 있도록 돕는 통합 솔루션을 제공합니다.  <br> <br>
 
