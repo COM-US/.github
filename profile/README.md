@@ -73,6 +73,28 @@ COM-US는 <b>`농인 부모와 청인 자녀(CODA) 간 정서적 유대 강화�
 더불어 COM-US는 지속가능한 대화가 가능하도록, 부모와 자녀가 함께 '대화 블록 쌓기' 방식을 통해 대화를 시각적으로 기록하고, 감정과 생각을 공유하는 경험을 함께 받아볼 수 있습니다.
 <br><br>
 
-## ✴️ COM-US 아키텍처
+## ✴️ COM-US 기술 스택 및 아키텍처
 
+(1) 모바일 어플리케이션 
+- 프레임워크 : Android
+- 개발 언어: Kotlin
+- 활용 기술: Jetpack Compose, Retrofit
+
+<br>
+
+(2) 서버 
+- 프레임워크: Spring Boot 3
+- 개발 언어: Java 17
+- 빌드 도구: Gradle
+- 활용 기술 : Spring Security, JPA
+
+<br>
+
+(3) AI
+- 프레임워크: Flask
+- 개발 언어: Python
+- 활용 기술: PyTorch , OpenAI API
+
+  
+<br>
 <img src="https://github.com/user-attachments/assets/1c9a2d53-4c37-469c-a91b-766c64be5ac2" width="800">
